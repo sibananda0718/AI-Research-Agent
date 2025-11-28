@@ -1,14 +1,25 @@
+# AI Research Agent
+### Infosys Springboard Virtual Internship Program (Batch 3)
+
+**Developed by:** Sibananda Swain
+**Status:** Completed
+
+---
+
+## Project Description
+This repository contains an autonomous research agent capable of conducting deep research on given topics. It was developed as a key task for the Infosys Springboard internship.
+
 # Quick Setup
 
 Follow these steps to get the researcher running with the default configuration.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amalsalilan/Batch-3-Open-Research-Agent-task-for-the-Infosys-Springboard-Virtual-Internship-Program.git
+   git clone https://github.com/sibananda0718/AI-Reseach-Agent.git
    ```
 2. Change into the project directory:
    ```bash
-   cd Batch-3-Open-Research-Agent-task-for-the-Infosys-Springboard-Virtual-Internship-Program
+   cd AI-Reseach-Agent
    ```
 3. Install Python dependencies with `uv` (installation guide: https://docs.astral.sh/uv/getting-started/installation/):
    ```bash

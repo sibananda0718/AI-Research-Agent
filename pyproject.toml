@@ -1,4 +1,5 @@
 [project]
+authors = [{name = "Sibananda Swain", email = "swain18022004@gmail.com"}]
 name = "deep_research_from_scratch"
 version = "0.1.0"
 description = "Build a deep research agent from scratch"
